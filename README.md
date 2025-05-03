@@ -1,5 +1,5 @@
 # 3D_TicTacToe
-A console game of 3D_TicTacToe made with Java.
+A console game of 3D_TicTacToe, including an AI player. (Java)
 
 3D TicTacToe is basically a 3x3 TicTacToe plate stacked. (reference image included)
 - 27! total cases
